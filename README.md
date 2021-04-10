@@ -1,2 +1,3 @@
-# Michigan_Applied_Machine_Learning
-Machine Learning Applied Course
+# Michigan Applied Machine Learning
+
+Aquí se encuentra el código de respuesta al primer examen del curso.
